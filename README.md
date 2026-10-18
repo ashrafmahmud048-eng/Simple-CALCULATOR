@@ -1,5 +1,3 @@
-//# Simple-CALCULATOR
-
 
 
 #include<stdio.h>
